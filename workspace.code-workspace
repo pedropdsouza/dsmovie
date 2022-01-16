@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Biblioteca Pedro\\Documentos\\DEV\\Portfolio"
+		},
+		{
+			"path": "D:\\Biblioteca Pedro\\Documentos\\DEV\\Slider 2"
+		},
+		{
+			"path": "..\\..\\Users\\Pedro\\Desktop\\SliderT"
+		},
+		{
+			"path": "D:\\Biblioteca Pedro\\Documentos\\DEV\\React"
+		},
+		{
+			"path": "D:\\Biblioteca Pedro\\Documentos\\DEV\\DevSuperior"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SliderT"
+	}
+}
